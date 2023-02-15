@@ -1,11 +1,19 @@
 body {
     font-family: "Open Sans";
-    display: grid;
-    gap: 10px;
-    padding: 20px;
     font-size: 1rem;
-    max-width: 800px;
+    background-color: #07041a;
+}
+
+.body {
+    display: grid;
+    gap: 0.625rem;
+    padding: 1.875rem;
+    padding-bottom: 100px;
     margin: auto;
+    margin-top: 40px;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 20px;
 }
 
 img {
